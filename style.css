@@ -1,6 +1,7 @@
 #navTab{
     text-decoration: none;
     color: #000000;
+    padding: 10px;
 }
 
 #navTab:hover{
