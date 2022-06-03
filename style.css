@@ -1,0 +1,44 @@
+#navTab{
+    text-decoration: none;
+    color: #1faa70;
+}
+
+#navTab:hover{
+    text-decoration: none;
+    color: #045d38;
+}
+
+.navBar{
+    margin: auto;
+    align-items: center;
+}
+
+nav {
+    margin: auto;
+    width: 90%;
+    font-size: 25px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+nav ul li {
+    color:rgb(248, 0, 0);
+    padding: 24px;
+    display: block;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+nav ul a:hover, 
+nav ul a:focus {
+    color: #025a35;
+    font-size: 25px;
+    font-weight: bold;
+}
